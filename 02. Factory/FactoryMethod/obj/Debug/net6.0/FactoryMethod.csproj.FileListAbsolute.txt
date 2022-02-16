@@ -1,0 +1,15 @@
+D:\23-design-patterns-of-GoF\02. Factory\FactoryMethod\obj\Debug\net6.0\FactoryMethod.csproj.AssemblyReference.cache
+D:\23-design-patterns-of-GoF\02. Factory\FactoryMethod\obj\Debug\net6.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\23-design-patterns-of-GoF\02. Factory\FactoryMethod\obj\Debug\net6.0\FactoryMethod.AssemblyInfoInputs.cache
+D:\23-design-patterns-of-GoF\02. Factory\FactoryMethod\obj\Debug\net6.0\FactoryMethod.AssemblyInfo.cs
+D:\23-design-patterns-of-GoF\02. Factory\FactoryMethod\obj\Debug\net6.0\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\23-design-patterns-of-GoF\02. Factory\FactoryMethod\bin\Debug\net6.0\FactoryMethod.exe
+D:\23-design-patterns-of-GoF\02. Factory\FactoryMethod\bin\Debug\net6.0\FactoryMethod.deps.json
+D:\23-design-patterns-of-GoF\02. Factory\FactoryMethod\bin\Debug\net6.0\FactoryMethod.runtimeconfig.json
+D:\23-design-patterns-of-GoF\02. Factory\FactoryMethod\bin\Debug\net6.0\FactoryMethod.dll
+D:\23-design-patterns-of-GoF\02. Factory\FactoryMethod\bin\Debug\net6.0\ref\FactoryMethod.dll
+D:\23-design-patterns-of-GoF\02. Factory\FactoryMethod\bin\Debug\net6.0\FactoryMethod.pdb
+D:\23-design-patterns-of-GoF\02. Factory\FactoryMethod\obj\Debug\net6.0\FactoryMethod.dll
+D:\23-design-patterns-of-GoF\02. Factory\FactoryMethod\obj\Debug\net6.0\ref\FactoryMethod.dll
+D:\23-design-patterns-of-GoF\02. Factory\FactoryMethod\obj\Debug\net6.0\FactoryMethod.pdb
+D:\23-design-patterns-of-GoF\02. Factory\FactoryMethod\obj\Debug\net6.0\FactoryMethod.genruntimeconfig.cache
