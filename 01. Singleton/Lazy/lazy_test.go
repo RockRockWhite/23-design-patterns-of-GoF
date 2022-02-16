@@ -26,5 +26,5 @@ func TestGetInstanceOnce(t *testing.T) {
         }()
     }
 
-    time.Sleep(40 * time.Second)
+    time.Sleep(4 * time.Second)
 }
